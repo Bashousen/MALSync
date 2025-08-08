@@ -246,6 +246,7 @@ module.exports = {
       '*://*.mixdrop.ms/e/*',
       '*://*.mixdrop.ps/e/*',
       '*://*.mixdrop.my/e/*',
+      '*://*.mixdrop.sn/e/*',
       // auto-mixdrop-replace-dont-remove
     ],
   },
@@ -472,6 +473,7 @@ module.exports = {
     match: [
       '*://vidmoly.me/*',
       '*://vidmoly.to/*',
+      '*://vidmoly.net/*',
       // auto-vidmoly-replace-dont-remove
     ],
   },
@@ -801,7 +803,7 @@ module.exports = {
   },
   // animekai
   megaup: {
-    match: ['*://megaup.cc/e/*'],
+    match: ['*://megaup.cc/e/*', '*://megaup.site/e/*'],
   },
   // hikari
   boosterx: {
