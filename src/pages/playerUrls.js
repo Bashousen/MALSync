@@ -606,6 +606,9 @@ module.exports = {
   BetterAnime: {
     match: ['*://betteranime.net/player*'],
   },
+  Anitube: {
+    match: ['*://*.anitube.vip/playerricas.php?*'],
+  },
   // animixplay
   streamzz: {
     match: ['*://streamzz.to/*'],
