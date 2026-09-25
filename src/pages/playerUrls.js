@@ -560,6 +560,7 @@ module.exports = {
       '*://jessicaclearout.com/e/*',
       '*://marissasharecareer.com/e/*',
       '*://charlestoughrace.com/e/*',
+      '*://jamesbornmain.com/e/*',
       // auto-voe-replace-dont-remove
     ],
   },
